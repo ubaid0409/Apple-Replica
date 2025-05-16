@@ -1,1 +1,1 @@
-# this is my clone of apple's website
+# This is my clone of apple's website
